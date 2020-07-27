@@ -1,7 +1,7 @@
 # Kaun-Banega-Crorepati-KBC-game
 A command line interface game based on the popular TV show Kaun Banega Crorepati (KBC) written entirely in C
 
-##############################################################
+
 
 Description of how to run the code and observe the output (using a linux terminal) :
 The file titled kbcgame can be run simply by the command in quotes "./kbcgame", however if "permission denied" is prompted on doing the above, The user shall simply run the command "chmod +x kbcgame" to grant permission to run the file, where the inverted commas enclose the command to be executed.
@@ -14,4 +14,4 @@ To compile and run the code, simply execute the command "gcc kbcgame.c -o output
 
 However note that, the code takes input from two files, "ques.txt" and "ques5050.txt", and hence, to ensure that the code compiles and runs alongside the executable, have all these files, the .c, the .exe and these two .txts from the shared zip folder in the same directory.
 
-##############################################################
+
